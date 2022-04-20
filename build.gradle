@@ -47,4 +47,5 @@ jacocoTestReport {
 dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.6.10'
     implementation 'org.junit.jupiter:junit-jupiter:5.8.2'
+    implementation 'junit:junit:4.13.1'
 }
